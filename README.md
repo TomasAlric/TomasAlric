@@ -1,13 +1,11 @@
-<h1> Hi! My name is Tomas. </h1>
-
-  <h1 align="center">Olá 👋 </h1>
+  <h1 align="center">Olá 👋, bem vindo(a)! </h1>
   
   Sou um Desenvolvedor Java Jr Full Stack em constante aprendizado, no momento estou cursando Analise e Desenvolvimento de Sistemas e participando de um Bootcamp da [Generation Brasil](https://brazil.generation.org) onde irei contribuir no desenvolvimento de uma aplicação Web utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros.
 
 
 <h3 align="left">Siga-me nas redes sociais :alien: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tomas-alric-64ab841a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tomas-alric-64ab841a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tomas-alric-64ab841a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tomas-alric-64ab841a4/" height="30" width="40" /></a>
 </p>
   <div>
   <a href="https://github.com/TomasAlric">
