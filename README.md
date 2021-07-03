@@ -1,7 +1,9 @@
 <h1> Hi! My name is Tomas. </h1>
 
   <h1 align="center">Olá 👋 </h1>
-<h3 align="center">Sou m Desenvolvedor Java Jr Full Stack em constante aprendizado, no momento estou cursando Analise e Desenvolvimento de Sistemas e participando de um Bootcamp da [Generation Brasil](https://brazil.generation.org) durante 3 meses, onde estarei realizando atividades Full Stack. </h3>
+  
+  Sou um Desenvolvedor Java Jr Full Stack em constante aprendizado, no momento estou cursando Analise e Desenvolvimento de Sistemas e participando de um Bootcamp da [Generation Brasil](https://brazil.generation.org) onde irei contribuir no desenvolvimento de uma aplicação Web utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros.
+
 
 <h3 align="left">Siga-me nas redes sociais :alien: </h3>
 <p align="left">
@@ -17,8 +19,6 @@
   
  <br>
 <div  align="center"> 
-  <a href="https://https://www.linkedin.com/in/tomas-alric-64ab841a4//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/TomasAlric/TomasAlric/blob/output/github-contribution-grid-snake.svg)
  
   </div>
