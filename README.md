@@ -2,9 +2,9 @@
   Sou um Desenvolvedor Java Jr Full Stack em constante aprendizado, no momento estou cursando Analise e Desenvolvimento de Sistemas e participando de um Bootcamp da [Generation Brasil](https://brazil.generation.org) onde irei contribuir no desenvolvimento de uma aplicação Web utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros.
 
   
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&&layout=compact&hide=shell&theme=highcontrast"/>
-<div style="display: inline_block"><br>
+  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&&layout=compact&hide=shell&theme=highcontrast"/>
+style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
  
  <div>
