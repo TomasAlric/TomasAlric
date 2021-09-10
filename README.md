@@ -23,8 +23,9 @@
 <a href="https://www.linkedin.com/in/tomas-alric-64ab841a4/" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="www.linkedin.com/in/tomas-alric-64ab841a4/" height="30" width="110" /></a>
 <a href="https://www.linkedin.com/in/tomas-alric-64ab841a4/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="www.linkedin.com/in/tomas-alric-64ab841a4/" height="30" width="110" /></a>
 <a href="https://www.linkedin.com/in/tomas-alric-64ab841a4/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="www.linkedin.com/in/tomas-alric-64ab841a4/" height="30" width="110" /></a>
-  
  
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="tomas alric spotify playing" width="350" />]()
+    
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
