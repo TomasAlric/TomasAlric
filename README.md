@@ -1,6 +1,10 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1><div>  
   Sou um Desenvolvedor Java Jr Full Stack em constante aprendizado, no momento estou cursando Analise e Desenvolvimento de Sistemas e participando de um Bootcamp da [Generation Brasil](https://brazil.generation.org) onde irei contribuir no desenvolvimento de uma aplicação Web utilizando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre outros.
 
+  <br>
+  <br>
+  <br>
+  
   <div>
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&&layout=compact&hide=shell&theme=highcontrast"
