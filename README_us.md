@@ -26,9 +26,9 @@ I am a Java Jr Full Stack Developer in constant learning, at the moment I am stu
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="tomas alric spotify playing" width="350" />]()
     
 <table align="right">
- <tr><td><a href="README.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Espanhol</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
+ <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Espanhol</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
 </table>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
