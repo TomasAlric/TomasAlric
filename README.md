@@ -44,7 +44,8 @@
    </div>
   
    
-  [<img src="https://spotify-playing-now-o1fpjzxoi-tomasalric.vercel.app/api/spotify-playing" alt="tomas alric spotify playing" width="350" />]()
+  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mano_tomasito)
   
 <div> 
  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
