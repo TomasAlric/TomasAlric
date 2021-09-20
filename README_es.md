@@ -1,5 +1,8 @@
-<h1 align="center">Hola 🛸, bienvenido(a)! </h1><div>  
-Soy un Java Jr Full Stack Developer en constante aprendizaje, actualmente estudio Análisis y Desarrollo de Sistemas y participo en un Bootcamp en [Generation Brasil] (https://brazil.generation.org) donde contribuiré al desarrollo de una aplicación web usando Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, entre otros.
+<h1 align="center">Hola 🛸, bienvenido(a)! </h1>
+
+Soy un desarrollador autodidacta de Java Jr. Full Stack, actualmente estoy estudiando Análisis y Desarrollo de Sistemas en [FIAP](https://www.fiap.com.br) y terminé el bootcamp de [Generation Brasil ](https://brazil.generation.org), donde trabajé en el desarrollo de una red social [Zenite](https://redezenite.netlify.app), usando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre otros. Comprometido con evolucionar y colaborar en el desarrollo de personas y proyectos, aprendiendo nuevas tecnologías, realizando cursos y retos prácticos constantemente.
+  
+  
   <div>
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&&layout=compact&hide=shell&theme=highcontrast"
@@ -31,8 +34,13 @@ Soy un Java Jr Full Stack Developer en constante aprendizaje, actualmente estudi
 
   
   
-  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="tomas alric spotify playing" width="350" />]()
-    
+  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="tomas alric spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
+  
+  <div>  
+  <h4 align="right"> Visitantes </h4>
+  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
+   </div>
+   
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
