@@ -1,6 +1,8 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1>
 
-  Sou um Desenvolvedor Java Jr. Full Stack em constante aprendizado, no momento estou cursando Analise e Desenvolvimento de Sistemas e participando de um Bootcamp da [Generation Brasil](https://brazil.generation.org) onde irei contribuir no desenvolvimento de uma aplicação web utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros.
+  Sou um Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e finalizei o bootcamp da [Generation Brasil](https://brazil.generation.org), onde trabalhei no desenvolvimento de uma rede social [Zênite](https://redezenite.netlify.app), utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros. Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente. 
+
+
 
   <br>
 
@@ -44,11 +46,12 @@
    </div>
   
    
+
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
   
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mano_tomasito)
-  
-<div> 
- <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
+<div>  
+  <h4 align="right"> Visitantes </h4>
+  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
    </div> 
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
