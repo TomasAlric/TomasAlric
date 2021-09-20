@@ -1,5 +1,8 @@
-<h1 align="center">Hi 🛸, welcome! </h1><div>  
-I am a Java Jr Full Stack Developer in constant learning, at the moment I am studying Systems Analysis and Development and participating in a Bootcamp at [Generation Brasil](https://brazil.generation.org) where I will contribute to the development of a web application using Java ☕, SpringBoot 🍃, MySQL 🐬, Angular 🅰️, among others.
+<h1 align="center">Hi 🛸, welcome! </h1>
+  
+I am a self-taught Java Jr. Full Stack Developer, at the moment I am studying Systems Analysis and Development at [FIAP](https://www.fiap.com.br) and finished the bootcamp of [Generation Brasil](https://brazil.generation.org), where I worked on the development of a social network [Zênite](https://redezenite.netlify.app), using Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ among others. Committed to evolving and collaborating in the development of people and projects, learning new technologies, constantly taking courses and practical challenges.
+  
+  
   <div>
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&&layout=compact&hide=shell&theme=highcontrast"
@@ -29,9 +32,14 @@ I am a Java Jr Full Stack Developer in constant learning, at the moment I am stu
  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
 </table>
   
-  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="tomas alric spotify playing" width="350" />]()
+  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
     
-
+<div>  
+  <h4 align="right"> Visitors </h4>
+  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
+   </div> 
+   
+   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
