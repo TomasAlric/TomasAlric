@@ -52,7 +52,7 @@ Soy un desarrollador autodidacta de Java Jr. Full Stack, actualmente estoy estud
  
 <table align="right">
  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Espanhol</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
 </table>
 
