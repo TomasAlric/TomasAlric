@@ -14,7 +14,7 @@ No dia a dia trabalho com <b>AWS ☁️, EKS/ECS, Terraform, GitOps (ArgoCD + He
 <h3 align="left">Linguagens e Ferramentas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,python,java,linux,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,python" />
 </p>
 
 ---
