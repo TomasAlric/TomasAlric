@@ -60,7 +60,7 @@
   
    
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mano_tomasito&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
   
 <div>  
   <h4 align="right"> Visitantes </h4>
