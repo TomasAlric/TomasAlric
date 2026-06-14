@@ -20,9 +20,9 @@ No dia a dia trabalho com <b>AWS ☁️, EKS/ECS, Terraform, GitOps (ArgoCD + He
 ---
 
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="130" src="https://streak-stats.demolab.com/?user=TomasAlric&theme=aura&hide_border=true" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&layout=compact&theme=aura&hide_border=true&hide=shell,html,css,scss,javascript&langs_count=8" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api?username=TomasAlric&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="125" src="https://streak-stats.demolab.com/?user=TomasAlric&theme=aura&hide_border=true" />
+  <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasAlric&layout=compact&theme=aura&hide_border=true&hide=shell,html,css,scss,javascript&langs_count=8" />
 </p>
 
 ---
