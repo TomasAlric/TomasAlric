@@ -1,8 +1,15 @@
-<h1 align="center">Olá 🛸, bem vindo(a)! </h1>
+<h1 align="center">Olá 🛸, bem vindo(a)!</h1>
 
-  Sou um Desenvolvedor Java Jr. Full Stack autodidata, no momento estou cursando Analise e Desenvolvimento de Sistemas na [FIAP](https://www.fiap.com.br) e finalizei o bootcamp da [Generation Brasil](https://brazil.generation.org), onde trabalhei no desenvolvimento de uma rede social [Zênite](https://redezenite.netlify.app), utilizando Java ☕ SpringBoot 🍃 MySQL 🐬 Angular 🅰️ entre outros. Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente. 
+<h3 align="center">Senior Platform Engineer @Itaú · Kubernetes · Terraform · GitOps · SRE · Instrutor AWS</h3>
 
-
+  Minha jornada na tecnologia começou na mecatrônica, construindo uma impressora 3D com C e Arduino — foi ali que descobri a programação e o quanto gosto de resolver problemas com tecnologia. Comecei como desenvolvedor back-end Java ☕ Spring 🍃 e migrei para <b>Platform Engineering / SRE</b>, onde hoje construo e sustento plataformas internas de Cloud e Kubernetes usadas por milhares de desenvolvedores.
+  <br><br>
+  No dia a dia trabalho com <b>AWS ☁️, EKS/ECS, Terraform, GitOps (ArgoCD + Helm), GitHub Actions e práticas de SRE</b> — sempre com foco em automação, confiabilidade e experiência do desenvolvedor. Também sou <b>instrutor de AWS</b> (CLF, DVA, SAA), tenho 3 certificações AWS e sou formado em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br).
+  <br><br>
+  🌎 Fluente em português e espanhol, aprimorando o inglês &nbsp;|&nbsp; ♟️ Nas horas livres: xadrez, cozinha e salto de paraquedas
+  <br><br>
+  💬 <b>Vamos trocar ideia sobre Cloud e Kubernetes?</b> Me chama nas redes abaixo 👇
+  <br>
 
   <br>
 
