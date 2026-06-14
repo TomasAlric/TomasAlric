@@ -27,7 +27,8 @@ No dia a dia trabalho com <b>AWS ☁️, EKS/ECS, Terraform, GitOps (ArgoCD + He
 
 ---
 
-<img align="right" alt="Alien" width="180" height="180" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv" />
+<img align="right" alt="Alien" width="370" height="370" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gif" />
+
 
 <h3 align="left">Siga-me nas redes sociais 👽</h3>
 
